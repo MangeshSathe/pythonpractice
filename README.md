@@ -1,2 +1,2 @@
-# udemyPythonPractice
-udemy Python Practice
+# PythonPractice
+Python Practice
