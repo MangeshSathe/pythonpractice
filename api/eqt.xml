@@ -1,0 +1,433 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<earthquake>
+  <earthquake_logs identifier="us7000ghyg">
+    <magnitude>4.2</magnitude>
+    <place>20 km ENE of Jurm, Afghanistan</place>
+    <time>1643532480284</time>
+    <title>M 4.2 - 20 km ENE of Jurm, Afghanistan</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ghyg&amp;format=geojson</url>
+    <coordinates_lat>71.0291</coordinates_lat>
+    <coordinates_lon>36.959</coordinates_lon>
+    <coordinates_rad>109.87</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000ghvq">
+    <magnitude>4.4</magnitude>
+    <place>210 km SE of Port Blair, India</place>
+    <time>1643499991813</time>
+    <title>M 4.4 - 210 km SE of Port Blair, India</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ghvq&amp;format=geojson</url>
+    <coordinates_lat>94.3334</coordinates_lat>
+    <coordinates_lon>10.5863</coordinates_lon>
+    <coordinates_rad>10</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000ghuk">
+    <magnitude>4.1</magnitude>
+    <place>67 km NW of Skardu, Pakistan</place>
+    <time>1643438434547</time>
+    <title>M 4.1 - 67 km NW of Skardu, Pakistan</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ghuk&amp;format=geojson</url>
+    <coordinates_lat>75.0156</coordinates_lat>
+    <coordinates_lon>35.6406</coordinates_lon>
+    <coordinates_rad>10</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gfyc">
+    <magnitude>4.4</magnitude>
+    <place>72 km SE of Farkh?r, Afghanistan</place>
+    <time>1643388550545</time>
+    <title>M 4.4 - 72 km SE of Farkh?r, Afghanistan</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gfyc&amp;format=geojson</url>
+    <coordinates_lat>70.4209</coordinates_lat>
+    <coordinates_lon>36.1005</coordinates_lon>
+    <coordinates_rad>124.33</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000ghe3">
+    <magnitude>4.1</magnitude>
+    <place>37 km SSE of Jurm, Afghanistan</place>
+    <time>1643304400375</time>
+    <title>M 4.1 - 37 km SSE of Jurm, Afghanistan</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ghe3&amp;format=geojson</url>
+    <coordinates_lat>70.9321</coordinates_lat>
+    <coordinates_lon>36.5388</coordinates_lon>
+    <coordinates_rad>198.05</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gesq">
+    <magnitude>4</magnitude>
+    <place>Xizang, China</place>
+    <time>1643077953552</time>
+    <title>M 4.0 - Xizang, China</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gesq&amp;format=geojson</url>
+    <coordinates_lat>82.0597</coordinates_lat>
+    <coordinates_lon>33.7922</coordinates_lon>
+    <coordinates_rad>27.84</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gen0">
+    <magnitude>4</magnitude>
+    <place>21 km NW of Dh?rchula, India</place>
+    <time>1643053139306</time>
+    <title>M 4.0 - 21 km NW of Dh?rchula, India</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gen0&amp;format=geojson</url>
+    <coordinates_lat>80.3548</coordinates_lat>
+    <coordinates_lon>29.9803</coordinates_lon>
+    <coordinates_rad>10</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gege">
+    <magnitude>5</magnitude>
+    <place>2 km ENE of Nahr?n, Afghanistan</place>
+    <time>1642987250412</time>
+    <title>M 5.0 - 2 km ENE of Nahr?n, Afghanistan</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gege&amp;format=geojson</url>
+    <coordinates_lat>69.1575</coordinates_lat>
+    <coordinates_lon>36.0702</coordinates_lon>
+    <coordinates_rad>10</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000ggne">
+    <magnitude>4.4</magnitude>
+    <place>129 km WSW of Myitkyina, Myanmar</place>
+    <time>1642953170262</time>
+    <title>M 4.4 - 129 km WSW of Myitkyina, Myanmar</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ggne&amp;format=geojson</url>
+    <coordinates_lat>96.1665</coordinates_lat>
+    <coordinates_lon>25.0405</coordinates_lon>
+    <coordinates_rad>10</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000ggnd">
+    <magnitude>4.6</magnitude>
+    <place>169 km SW of Bamboo Flat, India</place>
+    <time>1642953016399</time>
+    <title>M 4.6 - 169 km SW of Bamboo Flat, India</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ggnd&amp;format=geojson</url>
+    <coordinates_lat>91.4855</coordinates_lat>
+    <coordinates_lon>10.7625</coordinates_lon>
+    <coordinates_rad>10</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000ggnc">
+    <magnitude>4.5</magnitude>
+    <place>173 km SW of Bamboo Flat, India</place>
+    <time>1642951310341</time>
+    <title>M 4.5 - 173 km SW of Bamboo Flat, India</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ggnc&amp;format=geojson</url>
+    <coordinates_lat>91.5003</coordinates_lat>
+    <coordinates_lon>10.6973</coordinates_lon>
+    <coordinates_rad>10</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gfxs">
+    <magnitude>4.1</magnitude>
+    <place>59 km SSW of Mawlaik, Myanmar</place>
+    <time>1642872138579</time>
+    <title>M 4.1 - 59 km SSW of Mawlaik, Myanmar</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gfxs&amp;format=geojson</url>
+    <coordinates_lat>94.2434</coordinates_lat>
+    <coordinates_lon>23.1302</coordinates_lon>
+    <coordinates_rad>76.07</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gfxf">
+    <magnitude>4.2</magnitude>
+    <place>132 km SE of Narasannapeta, India</place>
+    <time>1642841183113</time>
+    <title>M 4.2 - 132 km SE of Narasannapeta, India</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gfxf&amp;format=geojson</url>
+    <coordinates_lat>84.9267</coordinates_lat>
+    <coordinates_lon>17.562</coordinates_lon>
+    <coordinates_rad>10</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000ge0w">
+    <magnitude>4.1</magnitude>
+    <place>16 km SE of Kishtw?r, India</place>
+    <time>1642800218467</time>
+    <title>M 4.1 - 16 km SE of Kishtw?r, India</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ge0w&amp;format=geojson</url>
+    <coordinates_lat>75.9072</coordinates_lat>
+    <coordinates_lon>33.2225</coordinates_lon>
+    <coordinates_rad>10</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gdtu">
+    <magnitude>5.4</magnitude>
+    <place>23 km NE of Falam, Myanmar</place>
+    <time>1642759951865</time>
+    <title>M 5.4 - 23 km NE of Falam, Myanmar</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gdtu&amp;format=geojson</url>
+    <coordinates_lat>93.8172</coordinates_lat>
+    <coordinates_lon>23.0871</coordinates_lon>
+    <coordinates_rad>58.96</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gdfj">
+    <magnitude>4.5</magnitude>
+    <place>35 km SSE of Jurm, Afghanistan</place>
+    <time>1642658121002</time>
+    <title>M 4.5 - 35 km SSE of Jurm, Afghanistan</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gdfj&amp;format=geojson</url>
+    <coordinates_lat>70.925</coordinates_lat>
+    <coordinates_lon>36.5511</coordinates_lon>
+    <coordinates_rad>205.32</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gfk9">
+    <magnitude>4.4</magnitude>
+    <place>92 km ENE of Nagqu, China</place>
+    <time>1642551584860</time>
+    <title>M 4.4 - 92 km ENE of Nagqu, China</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gfk9&amp;format=geojson</url>
+    <coordinates_lat>92.9243</coordinates_lat>
+    <coordinates_lon>31.8613</coordinates_lon>
+    <coordinates_rad>10</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gd0v">
+    <magnitude>4.4</magnitude>
+    <place>70 km SSW of Ashk?sham, Afghanistan</place>
+    <time>1642545981531</time>
+    <title>M 4.4 - 70 km SSW of Ashk?sham, Afghanistan</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gd0v&amp;format=geojson</url>
+    <coordinates_lat>71.1441</coordinates_lat>
+    <coordinates_lon>36.133</coordinates_lon>
+    <coordinates_rad>93.26</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gcs1">
+    <magnitude>4.5</magnitude>
+    <place>36 km SSW of Chur?ch?ndpur, India</place>
+    <time>1642472535803</time>
+    <title>M 4.5 - 36 km SSW of Chur?ch?ndpur, India</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gcs1&amp;format=geojson</url>
+    <coordinates_lat>93.5196</coordinates_lat>
+    <coordinates_lon>24.0361</coordinates_lon>
+    <coordinates_rad>60.79</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gcrj">
+    <magnitude>4.3</magnitude>
+    <place>22 km SE of Sanjwal, Pakistan</place>
+    <time>1642465814220</time>
+    <title>M 4.3 - 22 km SE of Sanjwal, Pakistan</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gcrj&amp;format=geojson</url>
+    <coordinates_lat>72.5708</coordinates_lat>
+    <coordinates_lon>33.5946</coordinates_lon>
+    <coordinates_rad>41.1</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gcr6">
+    <magnitude>5.1</magnitude>
+    <place>86 km NNW of Shi Yomi, India</place>
+    <time>1642460363843</time>
+    <title>M 5.1 - 86 km NNW of Shi Yomi, India</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gcr6&amp;format=geojson</url>
+    <coordinates_lat>94.1513</coordinates_lat>
+    <coordinates_lon>29.2819</coordinates_lon>
+    <coordinates_rad>10</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gez7">
+    <magnitude>4.6</magnitude>
+    <place>49 km N of Imph?l, India</place>
+    <time>1642367362262</time>
+    <title>M 4.6 - 49 km N of Imph?l, India</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gez7&amp;format=geojson</url>
+    <coordinates_lat>93.8695</coordinates_lat>
+    <coordinates_lon>25.2468</coordinates_lon>
+    <coordinates_rad>10</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000geym">
+    <magnitude>4.2</magnitude>
+    <place>31 km NNE of Mawlaik, Myanmar</place>
+    <time>1642330258840</time>
+    <title>M 4.2 - 31 km NNE of Mawlaik, Myanmar</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000geym&amp;format=geojson</url>
+    <coordinates_lat>94.5597</coordinates_lat>
+    <coordinates_lon>23.8937</coordinates_lon>
+    <coordinates_rad>73.01</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gc85">
+    <magnitude>4.3</magnitude>
+    <place>9 km SW of Ashk?sham, Afghanistan</place>
+    <time>1642245729834</time>
+    <title>M 4.3 - 9 km SW of Ashk?sham, Afghanistan</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gc85&amp;format=geojson</url>
+    <coordinates_lat>71.4625</coordinates_lat>
+    <coordinates_lon>36.6171</coordinates_lon>
+    <coordinates_rad>100.88</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gc6t">
+    <magnitude>4.2</magnitude>
+    <place>40 km S of Jurm, Afghanistan</place>
+    <time>1642226277657</time>
+    <title>M 4.2 - 40 km S of Jurm, Afghanistan</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gc6t&amp;format=geojson</url>
+    <coordinates_lat>70.9073</coordinates_lat>
+    <coordinates_lon>36.5064</coordinates_lon>
+    <coordinates_rad>198.38</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gc2k">
+    <magnitude>4.3</magnitude>
+    <place>51 km SW of Jurm, Afghanistan</place>
+    <time>1642187394298</time>
+    <title>M 4.3 - 51 km SW of Jurm, Afghanistan</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gc2k&amp;format=geojson</url>
+    <coordinates_lat>70.5044</coordinates_lat>
+    <coordinates_lon>36.4859</coordinates_lon>
+    <coordinates_rad>207.77</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gc0n">
+    <magnitude>5.3</magnitude>
+    <place>16 km SSW of Ashk?sham, Afghanistan</place>
+    <time>1642176783550</time>
+    <title>M 5.3 - 16 km SSW of Ashk?sham, Afghanistan</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gc0n&amp;format=geojson</url>
+    <coordinates_lat>71.4945</coordinates_lat>
+    <coordinates_lon>36.5418</coordinates_lon>
+    <coordinates_rad>106.99</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gbtz">
+    <magnitude>4.2</magnitude>
+    <place>Sagaing, Myanmar</place>
+    <time>1642148945776</time>
+    <title>M 4.2 - Sagaing, Myanmar</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gbtz&amp;format=geojson</url>
+    <coordinates_lat>94.6403</coordinates_lat>
+    <coordinates_lon>24.3313</coordinates_lon>
+    <coordinates_rad>89.01</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gdwl">
+    <magnitude>4.1</magnitude>
+    <place>91 km SE of Phek, India</place>
+    <time>1642100610121</time>
+    <title>M 4.1 - 91 km SE of Phek, India</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gdwl&amp;format=geojson</url>
+    <coordinates_lat>95.0765</coordinates_lat>
+    <coordinates_lon>25.0326</coordinates_lon>
+    <coordinates_rad>94.89</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gbpk">
+    <magnitude>4.1</magnitude>
+    <place>37 km ESE of Farkh?r, Afghanistan</place>
+    <time>1642095412352</time>
+    <title>M 4.1 - 37 km ESE of Farkh?r, Afghanistan</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gbpk&amp;format=geojson</url>
+    <coordinates_lat>70.2604</coordinates_lat>
+    <coordinates_lon>36.4719</coordinates_lon>
+    <coordinates_rad>221.46</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gdvm">
+    <magnitude>4.1</magnitude>
+    <place>126 km WSW of Rikaze, China</place>
+    <time>1642043634822</time>
+    <title>M 4.1 - 126 km WSW of Rikaze, China</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gdvm&amp;format=geojson</url>
+    <coordinates_lat>87.6854</coordinates_lat>
+    <coordinates_lon>28.8094</coordinates_lon>
+    <coordinates_rad>10</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gbfz">
+    <magnitude>4.5</magnitude>
+    <place>48 km NNE of Imph?l, India</place>
+    <time>1642020417971</time>
+    <title>M 4.5 - 48 km NNE of Imph?l, India</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gbfz&amp;format=geojson</url>
+    <coordinates_lat>94.1077</coordinates_lat>
+    <coordinates_lon>25.22</coordinates_lon>
+    <coordinates_rad>13.28</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gb8w">
+    <magnitude>4.6</magnitude>
+    <place>60 km SSE of Mawlaik, Myanmar</place>
+    <time>1641968253221</time>
+    <title>M 4.6 - 60 km SSE of Mawlaik, Myanmar</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gb8w&amp;format=geojson</url>
+    <coordinates_lat>94.6845</coordinates_lat>
+    <coordinates_lon>23.1568</coordinates_lon>
+    <coordinates_rad>98.81</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gb8k">
+    <magnitude>4.9</magnitude>
+    <place>51 km SSW of Jurm, Afghanistan</place>
+    <time>1641965204602</time>
+    <title>M 4.9 - 51 km SSW of Jurm, Afghanistan</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gb8k&amp;format=geojson</url>
+    <coordinates_lat>70.5248</coordinates_lat>
+    <coordinates_lon>36.474</coordinates_lon>
+    <coordinates_rad>79.01</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000ga4l">
+    <magnitude>4.3</magnitude>
+    <place>87 km SE of Port Blair, India</place>
+    <time>1641620521889</time>
+    <title>M 4.3 - 87 km SE of Port Blair, India</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ga4l&amp;format=geojson</url>
+    <coordinates_lat>93.2253</coordinates_lat>
+    <coordinates_lon>11.0371</coordinates_lon>
+    <coordinates_rad>88.26</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000g9pj">
+    <magnitude>4.4</magnitude>
+    <place>38 km NNE of Pachperwa, India</place>
+    <time>1641493753484</time>
+    <title>M 4.4 - 38 km NNE of Pachperwa, India</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000g9pj&amp;format=geojson</url>
+    <coordinates_lat>82.8074</coordinates_lat>
+    <coordinates_lon>27.8305</coordinates_lon>
+    <coordinates_rad>10</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000g9qu">
+    <magnitude>4.2</magnitude>
+    <place>11 km ESE of Samtse, Bhutan</place>
+    <time>1641480369394</time>
+    <title>M 4.2 - 11 km ESE of Samtse, Bhutan</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000g9qu&amp;format=geojson</url>
+    <coordinates_lat>89.2113</coordinates_lat>
+    <coordinates_lon>26.8706</coordinates_lon>
+    <coordinates_rad>10</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000g8yg">
+    <magnitude>4.3</magnitude>
+    <place>Kashmir-India border region</place>
+    <time>1641316552331</time>
+    <title>M 4.3 - Kashmir-India border region</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000g8yg&amp;format=geojson</url>
+    <coordinates_lat>76.074</coordinates_lat>
+    <coordinates_lon>33.0339</coordinates_lon>
+    <coordinates_rad>40.06</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000g8xx">
+    <magnitude>4.6</magnitude>
+    <place>97 km ENE of Port Blair, India</place>
+    <time>1641308562007</time>
+    <title>M 4.6 - 97 km ENE of Port Blair, India</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000g8xx&amp;format=geojson</url>
+    <coordinates_lat>93.6061</coordinates_lat>
+    <coordinates_lon>11.9077</coordinates_lon>
+    <coordinates_rad>131.6</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000gbng">
+    <magnitude>4.7</magnitude>
+    <place>155 km NNE of Bamboo Flat, India</place>
+    <time>1641258867164</time>
+    <title>M 4.7 - 155 km NNE of Bamboo Flat, India</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000gbng&amp;format=geojson</url>
+    <coordinates_lat>93.0237</coordinates_lat>
+    <coordinates_lon>13.0711</coordinates_lon>
+    <coordinates_rad>35</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000g8k7">
+    <magnitude>4.5</magnitude>
+    <place>western Xizang</place>
+    <time>1641169684263</time>
+    <title>M 4.5 - western Xizang</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000g8k7&amp;format=geojson</url>
+    <coordinates_lat>88.3531</coordinates_lat>
+    <coordinates_lon>33.9519</coordinates_lon>
+    <coordinates_rad>10</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000g8g5">
+    <magnitude>4.2</magnitude>
+    <place>20 km SW of Ashk?sham, Afghanistan</place>
+    <time>1641113999686</time>
+    <title>M 4.2 - 20 km SW of Ashk?sham, Afghanistan</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000g8g5&amp;format=geojson</url>
+    <coordinates_lat>71.3585</coordinates_lat>
+    <coordinates_lon>36.5701</coordinates_lon>
+    <coordinates_rad>218.64</coordinates_rad>
+  </earthquake_logs>
+  <earthquake_logs identifier="us7000g8bl">
+    <magnitude>5.2</magnitude>
+    <place>Badakhshan, Afghanistan</place>
+    <time>1641042925380</time>
+    <title>M 5.2 - Badakhshan, Afghanistan</title>
+    <url>https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000g8bl&amp;format=geojson</url>
+    <coordinates_lat>71.1783</coordinates_lat>
+    <coordinates_lon>36.59</coordinates_lon>
+    <coordinates_rad>231.91</coordinates_rad>
+  </earthquake_logs>
+</earthquake>
